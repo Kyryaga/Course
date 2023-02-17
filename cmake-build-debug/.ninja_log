@@ -1,0 +1,12 @@
+# ninja log v5
+0	108	6982823760022566	CMakeFiles/course.dir/main.c.obj	a9e0fbb502939fc7
+110	250	6982823761422631	course.exe	f3eb54589ab54a85
+27	136	6983507284564983	libs/data_structures/CMakeFiles/data_structures.dir/bitset/bitset.c.obj	5bf9cd324010a1b5
+20	139	6983507284574971	libs/algorithms/CMakeFiles/algorithms.dir/algorithm.c.obj	ed50ee34be095ab0
+18	211	6983508879724012	libs/data_structures/libdata_structures.a	1cd310c45d70a25f
+3	101	6983513174411895	CMakeFiles/course.dir/main.c.obj	a9e0fbb502939fc7
+3	132	6983519661679704	libs/algorithms/CMakeFiles/algorithms.dir/array/array.c.obj	1e6dba89f44abdab
+133	228	6983519662649817	libs/algorithms/libalgorithms.a	3b2c99b274d77245
+228	518	6983519665489055	course.exe	68530ee58383d02f
+4	101	6983520263534347	CMakeFiles/course.dir/main.c.obj	a9e0fbb502939fc7
+101	249	6983520264975305	course.exe	68530ee58383d02f
